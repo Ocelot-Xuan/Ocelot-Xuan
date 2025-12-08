@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+
+- 📖 I'm currently an undergraduate student in UESTC, majoring in Networking.
+- 🔭 I'm studying Internet of Things(IoT), working on Low power IoT & Wireless sensing.
+- 🪛 I'm interested in embedded system developing and hardware designing.
+- 💡 No boundaries in technology. No end to exploration.
 
 <!--
 **Ocelot-Xuan/Ocelot-Xuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
