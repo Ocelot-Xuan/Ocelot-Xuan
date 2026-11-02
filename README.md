@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🪛 I'm interested in embedded systems and hardware designing.
-- 🔭 I'm currently studying **Internet of Things** (IoT).
+- 🔭 I'm currently working in **Internet of Things** (IoT).
 - 💡 "No boundaries in technology. No end to exploration."
 
 <!--
